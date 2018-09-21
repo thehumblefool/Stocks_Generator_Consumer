@@ -1,0 +1,83 @@
+18:35:01.066 	 Generated ... ,Reliance,51,ICICI,80,TCS,25,BankOfBaroda,61,Cipla,37,
+18:35:01.187 Displaying after waiting 86 milli seconds, queue Size, 0, ...
+Reliance,51,ICICI,80,TCS,25,BankOfBaroda,61,Cipla,37,
+18:35:01.201 	 Generated ... ,Reliance,100,ICICI,39,TCS,43,BankOfBaroda,12,Cipla,73,
+18:35:01.302 Displaying after waiting 89 milli seconds, queue Size, 0, ...
+Reliance,100,ICICI,39,TCS,43,BankOfBaroda,12,Cipla,73,
+18:35:01.313 	 Generated ... ,Reliance,51,ICICI,31,TCS,64,BankOfBaroda,41,Cipla,77,
+18:35:01.406 Displaying after waiting 81 milli seconds, queue Size, 0, ...
+Reliance,51,ICICI,31,TCS,64,BankOfBaroda,41,Cipla,77,
+18:35:01.425 	 Generated ... ,Reliance,47,ICICI,86,TCS,75,BankOfBaroda,32,Cipla,97,
+18:35:01.530 Displaying after waiting 94 milli seconds, queue Size, 0, ...
+Reliance,47,ICICI,86,TCS,75,BankOfBaroda,32,Cipla,97,
+18:35:01.536 	 Generated ... ,Reliance,57,ICICI,68,TCS,29,BankOfBaroda,89,Cipla,8,
+18:35:01.647 Displaying after waiting 99 milli seconds, queue Size, 0, ...
+Reliance,57,ICICI,68,TCS,29,BankOfBaroda,89,Cipla,8,
+18:35:01.653 	 Generated ... ,Reliance,1,ICICI,2,TCS,41,BankOfBaroda,32,Cipla,9,
+18:35:01.749 Displaying after waiting 84 milli seconds, queue Size, 0, ...
+Reliance,1,ICICI,2,TCS,41,BankOfBaroda,32,Cipla,9,
+18:35:01.765 	 Generated ... ,Reliance,76,ICICI,34,TCS,74,BankOfBaroda,55,Cipla,30,
+18:35:01.876 	 Generated ... ,Reliance,78,ICICI,24,TCS,29,BankOfBaroda,84,Cipla,90,
+18:35:01.879 Displaying ... SKIPPED after waiting 102 seconds, 
+18:35:01.988 	 Generated ... ,Reliance,57,ICICI,68,TCS,49,BankOfBaroda,8,Cipla,35,
+18:35:01.993 Displaying ... SKIPPED after waiting 105 seconds, 
+18:35:02.100 	 Generated ... ,Reliance,95,ICICI,13,TCS,89,BankOfBaroda,71,Cipla,12,
+18:35:02.117 Displaying after waiting 117 milli seconds, queue Size, 1, ...
+Reliance,95,ICICI,13,TCS,89,BankOfBaroda,71,Cipla,12,
+18:35:02.211 	 Generated ... ,Reliance,2,ICICI,54,TCS,28,BankOfBaroda,26,Cipla,58,
+18:35:02.219 Displaying ... SKIPPED after waiting 101 seconds, 
+18:35:02.305 Displaying after waiting 82 milli seconds, queue Size, 0, ...
+Reliance,2,ICICI,54,TCS,28,BankOfBaroda,26,Cipla,58,
+18:35:02.323 	 Generated ... ,Reliance,36,ICICI,1,TCS,29,BankOfBaroda,80,Cipla,5,
+18:35:02.434 	 Generated ... ,Reliance,80,ICICI,21,TCS,88,BankOfBaroda,56,Cipla,7,
+18:35:02.445 Displaying ... SKIPPED after waiting 111 seconds, 
+18:35:02.537 Displaying after waiting 92 milli seconds, queue Size, 0, ...
+Reliance,80,ICICI,21,TCS,88,BankOfBaroda,56,Cipla,7,
+18:35:02.545 	 Generated ... ,Reliance,69,ICICI,86,TCS,58,BankOfBaroda,19,Cipla,89,
+18:35:02.646 Displaying after waiting 89 milli seconds, queue Size, 0, ...
+Reliance,69,ICICI,86,TCS,58,BankOfBaroda,19,Cipla,89,
+18:35:02.657 	 Generated ... ,Reliance,35,ICICI,86,TCS,78,BankOfBaroda,70,Cipla,34,
+18:35:02.768 	 Generated ... ,Reliance,99,ICICI,34,TCS,29,BankOfBaroda,54,Cipla,32,
+18:35:02.781 Displaying after waiting 113 milli seconds, queue Size, 1, ...
+Reliance,99,ICICI,34,TCS,29,BankOfBaroda,54,Cipla,32,
+18:35:02.875 Displaying after waiting 93 milli seconds, queue Size, 0, ...
+Reliance,99,ICICI,34,TCS,29,BankOfBaroda,54,Cipla,32,
+18:35:02.880 	 Generated ... ,Reliance,49,ICICI,71,TCS,100,BankOfBaroda,77,Cipla,75,
+18:35:02.990 	 Generated ... ,Reliance,38,ICICI,65,TCS,70,BankOfBaroda,50,Cipla,72,
+18:35:02.991 Displaying ... SKIPPED after waiting 101 seconds, 
+18:35:03.090 Displaying after waiting 88 milli seconds, queue Size, 0, ...
+Reliance,38,ICICI,65,TCS,70,BankOfBaroda,50,Cipla,72,
+18:35:03.102 	 Generated ... ,Reliance,72,ICICI,35,TCS,97,BankOfBaroda,6,Cipla,47,
+18:35:03.213 	 Generated ... ,Reliance,87,ICICI,16,TCS,43,BankOfBaroda,66,Cipla,2,
+18:35:03.224 Displaying after waiting 111 milli seconds, queue Size, 1, ...
+Reliance,87,ICICI,16,TCS,43,BankOfBaroda,66,Cipla,2,
+18:35:03.325 	 Generated ... ,Reliance,38,ICICI,5,TCS,14,BankOfBaroda,52,Cipla,12,
+18:35:03.340 Displaying after waiting 115 milli seconds, queue Size, 1, ...
+Reliance,38,ICICI,5,TCS,14,BankOfBaroda,52,Cipla,12,
+18:35:03.428 Displaying after waiting 86 milli seconds, queue Size, 0, ...
+Reliance,38,ICICI,5,TCS,14,BankOfBaroda,52,Cipla,12,
+18:35:03.436 	 Generated ... ,Reliance,5,ICICI,36,TCS,37,BankOfBaroda,97,Cipla,10,
+18:35:03.535 Displaying after waiting 88 milli seconds, queue Size, 0, ...
+Reliance,5,ICICI,36,TCS,37,BankOfBaroda,97,Cipla,10,
+18:35:03.547 	 Generated ... ,Reliance,27,ICICI,39,TCS,10,BankOfBaroda,1,Cipla,61,
+18:35:03.649 Displaying after waiting 91 milli seconds, queue Size, 0, ...
+Reliance,27,ICICI,39,TCS,10,BankOfBaroda,1,Cipla,61,
+18:35:03.658 	 Generated ... ,Reliance,28,ICICI,90,TCS,62,BankOfBaroda,59,Cipla,83,
+18:35:03.766 Displaying after waiting 97 milli seconds, queue Size, 0, ...
+Reliance,28,ICICI,90,TCS,62,BankOfBaroda,59,Cipla,83,
+18:35:03.769 	 Generated ... ,Reliance,81,ICICI,17,TCS,76,BankOfBaroda,13,Cipla,40,
+18:35:03.878 Displaying after waiting 98 milli seconds, queue Size, 0, ...
+Reliance,81,ICICI,17,TCS,76,BankOfBaroda,13,Cipla,40,
+18:35:03.880 	 Generated ... ,Reliance,66,ICICI,11,TCS,58,BankOfBaroda,17,Cipla,20,
+18:35:03.992 	 Generated ... ,Reliance,81,ICICI,37,TCS,67,BankOfBaroda,48,Cipla,9,
+18:35:04.007 Displaying after waiting 115 milli seconds, queue Size, 1, ...
+Reliance,81,ICICI,37,TCS,67,BankOfBaroda,48,Cipla,9,
+18:35:04.095 Displaying after waiting 88 milli seconds, queue Size, 0, ...
+Reliance,81,ICICI,37,TCS,67,BankOfBaroda,48,Cipla,9,
+18:35:04.103 	 Generated ... ,Reliance,91,ICICI,49,TCS,32,BankOfBaroda,20,Cipla,78,
+18:35:04.213 	 Generated ... ,Reliance,93,ICICI,4,TCS,26,BankOfBaroda,85,Cipla,93,
+18:35:04.225 Displaying after waiting 111 milli seconds, queue Size, 1, ...
+Reliance,93,ICICI,4,TCS,26,BankOfBaroda,85,Cipla,93,
+18:35:04.310 Displaying after waiting 84 milli seconds, queue Size, 0, ...
+Reliance,93,ICICI,4,TCS,26,BankOfBaroda,85,Cipla,93,
+18:35:04.325 	 Generated ... ,Reliance,60,ICICI,100,TCS,21,BankOfBaroda,17,Cipla,85,
