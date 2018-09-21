@@ -1,0 +1,1 @@
+# Stocks_Generator_Consumer
